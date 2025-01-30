@@ -1,0 +1,22 @@
+name: de_comp_intl
+description: "Intl localization implementation for de_comp"
+version: 0.0.1
+homepage: https://github.com/karroze/de_comp_intl
+repository: https://github.com/karroze/de_comp_intl
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  bloc: ^8.1.4
+  de_comp: ^0.0.4
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  very_good_analysis: ^7.0.0
