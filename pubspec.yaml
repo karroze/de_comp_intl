@@ -1,6 +1,6 @@
 name: de_comp_intl
 description: "Intl localization implementation for de_comp"
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/karroze/de_comp_intl
 repository: https://github.com/karroze/de_comp_intl
 
