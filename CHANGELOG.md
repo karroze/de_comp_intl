@@ -1,3 +1,7 @@
+# 0.0.5
+
+* Updated `de_comp` to a version of `^0.0.6`
+
 # 0.0.4
 
 * Updated `intl` to a pinned version of `^0.20.2`
